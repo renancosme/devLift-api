@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevLiftApp", "DevLiftApp\DevLiftApp.csproj", "{766EF3D6-E85A-4E1D-98E9-38959BDC5CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{0C18DB21-1BB2-446C-B8D3-9FB520B19FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766EF3D6-E85A-4E1D-98E9-38959BDC5CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766EF3D6-E85A-4E1D-98E9-38959BDC5CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766EF3D6-E85A-4E1D-98E9-38959BDC5CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766EF3D6-E85A-4E1D-98E9-38959BDC5CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C18DB21-1BB2-446C-B8D3-9FB520B19FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C18DB21-1BB2-446C-B8D3-9FB520B19FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C18DB21-1BB2-446C-B8D3-9FB520B19FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C18DB21-1BB2-446C-B8D3-9FB520B19FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DDBFE67-97E7-4815-A875-7F60E610C3CA}
+	EndGlobalSection
+EndGlobal
